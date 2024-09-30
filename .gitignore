@@ -1,0 +1,6 @@
+ny_taxi_postgres_data
+.venv
+.ipynb*
+keys
+.terraform
+*.csv
