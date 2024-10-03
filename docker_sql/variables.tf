@@ -4,6 +4,6 @@ variable "gcp_location" {
 }
 
 variable "bq_dataset_name" {
-    description = "Big query dataset name"
-    default = "demo_dataset"  
+    description = "Taxi trip dataset"
+    default = "trips_data_all"  
 }
