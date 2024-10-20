@@ -1,2 +1,8 @@
 jupyter
 pyspark
+pandas
+pyarrow
+py4j
+numpy
+grpcio-status
+googleapis-common-protos

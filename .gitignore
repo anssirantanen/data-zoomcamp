@@ -1,6 +1,8 @@
 ny_taxi_postgres_data
 keys
 logs
+results/
+datasets/
 __pycache__
 .venv
 .ipynb*
