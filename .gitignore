@@ -6,6 +6,6 @@ datasets/
 __pycache__
 .venv
 .ipynb*
-.terraform
+.terraform*
 .dbt
 *.csv
